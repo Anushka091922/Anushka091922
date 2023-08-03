@@ -4,9 +4,9 @@
 
 
 
- - 🔭 I’m currently working on [Slient Speech Recognition : Automatic Lip reading Model using 3D CNN and GRU](https://github.com/Anushka091922/Silent-Lips-Reader-using-CNN)
+ - 🔭 I’m currently working on [Obstacle Avoidance for Autonomous Driving in CARLA Using Segmentation Deep Learning Models](https://github.com/Anushka091922/Obstacle-Avoidance-for-Autonomous-Driving-in-CARLA-Using-Segmentation-Deep-Learning-Models)
 
-- 🌱 I’m currently learning **Tenserflow and Pytorch**
+- 🌱 I’m currently learning **TensorFlow and PyTorch**
 
 - 📫 How to reach me **meanushkathakur748@gmail.com**
 
