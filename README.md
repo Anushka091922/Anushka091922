@@ -4,7 +4,7 @@
 
 
 
- - 🔭 I’m currently working on [Obstacle Avoidance for Autonomous Driving in CARLA Using Segmentation Deep Learning Models](https://github.com/Anushka091922/Obstacle-Avoidance-for-Autonomous-Driving-in-CARLA-Using-Segmentation-Deep-Learning-Models)
+ - 🔭 I’m currently working on [NASA Space App Challenge](https://github.com/Anushka091922/Obstacle-Avoidance-for-Autonomous-Driving-in-CARLA-Using-Segmentation-Deep-Learning-Models)
 
 - 🌱 I’m currently learning **TensorFlow and PyTorch** 
 
