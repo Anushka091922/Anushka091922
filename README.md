@@ -6,7 +6,8 @@
 
  - 🔭 I’m currently working on [Project Space Debris](https://github.com/Anushka091922/Obstacle-Avoidance-for-Autonomous-Driving-in-CARLA-Using-Segmentation-Deep-Learning-Models)
 
-- 🌱 I’m currently learning **Data Science** 
+- 🌱 I’m currently learning **Data Science**
+-  🌱 I’m currently trying to Integrate **Rocket science, Flight software and Computer Science** 
 
 - 📫 How to reach me **meanushkathakur748@gmail.com**
 
