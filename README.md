@@ -4,9 +4,9 @@
 
 
 
- - 🔭 I’m currently working on [NASA Space App Challenge](https://github.com/Anushka091922/Obstacle-Avoidance-for-Autonomous-Driving-in-CARLA-Using-Segmentation-Deep-Learning-Models)
+ - 🔭 I’m currently working on [Project Space Debris](https://github.com/Anushka091922/Obstacle-Avoidance-for-Autonomous-Driving-in-CARLA-Using-Segmentation-Deep-Learning-Models)
 
-- 🌱 I’m currently learning **TensorFlow and PyTorch** 
+- 🌱 I’m currently learning **Data Science** 
 
 - 📫 How to reach me **meanushkathakur748@gmail.com**
 
