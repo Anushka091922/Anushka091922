@@ -28,7 +28,7 @@
 
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
- [![trophy](https://github-profile-trophy.vercel.app/Anushka091922=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 # <h3>Statistical Data :-</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka091922&show_icons=true&locale=en&layout=compact" alt="anushka091922" /></p>
