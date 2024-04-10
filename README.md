@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **meanushkathakur748@gmail.com**
   
-- 📫 Link to my CV (https://drive.google.com/file/d/1iE4Wa2OVtbdl1RDz90msLbdrrIT4R4-F/view?usp=sharing)
+- 📫 Link to my CV [(https://drive.google.com/file/d/1iE4Wa2OVtbdl1RDz90msLbdrrIT4R4-F/view?usp=sharing](https://drive.google.com/file/d/1_pXX40WyhxgnY5X3ZxXQkLGWGDniJ4OP/view?usp=sharing)]
 - 📫 Link to my Portfolio Website 
 
 <h3 align="left">Connect with me:</h3>
