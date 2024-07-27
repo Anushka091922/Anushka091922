@@ -5,15 +5,15 @@
 
 
 
- - 🔭 I’m currently working on [Project Space Debris](https://github.com/Anushka091922/Project-Space_debris)
+ - 🔭 I’m currently working on [Project Space Debris](https://github.com/Anushka091922/Project-Space_debris) 
 
-- 🌱 I’m currently learning **Data Science**
--  🌱 I’m currently trying to Integrate **Rocket science, Flight software and Computer Science** 
+- 🌱 I’m currently learning **Machine Learning and Software Development**
+
 
 - 📫 How to reach me **meanushkathakur748@gmail.com**
   
-- 📫 Link to my CV [(https://drive.google.com/file/d/1iE4Wa2OVtbdl1RDz90msLbdrrIT4R4-F/view?usp=sharing](https://drive.google.com/file/d/1_pXX40WyhxgnY5X3ZxXQkLGWGDniJ4OP/view?usp=sharing)]
-- 📫 Link to my Portfolio Website 
+- 📫 Link to my CV [([https://drive.google.com/file/d/1iE4Wa2OVtbdl1RDz90msLbdrrIT4R4-F/view?usp=sharing](https://drive.google.com/file/d/1_pXX40WyhxgnY5X3ZxXQkLGWGDniJ4OP/view?usp=sharing](https://drive.google.com/file/d/10xo8FKLrChroqEo7GcTnH-3HcIplSqvU/view?usp=sharing))]
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
