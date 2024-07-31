@@ -5,7 +5,6 @@
 
 
 
- - 🔭 I’m currently working on [Project Space Debris](https://github.com/Anushka091922/Project-Space_debris) 
 
 - 🌱 I’m currently learning **Machine Learning and Software Development**
 
