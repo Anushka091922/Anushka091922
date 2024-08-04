@@ -3,7 +3,7 @@
 
 </h1>
 
- ⚡ Work experience: <br>
+<!-- ⚡ Work experience: <br>
 
 - **Machine Learning Intern-Infosys** - Fake news detection model development using ensemble Techniques. [India. Summer 2024]
   <!--**Software Engineer intern at Coinbase** - Full-stack development on the BlocSecurity Platform team. [Remote. Winter 2022]
@@ -11,7 +11,7 @@
  **Software Developer intern at Genetec**  Full-stack development on the Clearance team. [Montreal, Quebec. Spring 2021]
 **Teaching Assistant at Concordia University**  Object-Oriented Programming II (Java). [Montreal, Quebec. Spring 2021]-->
 
- ⚡ PROJECTS and HACKATHONS: <br>
+<!-- ⚡ PROJECTS and HACKATHONS: <br>
 - Myntra WeForShe Hackathon 2024
   
   • Built a Streamlit interface for real-time user interaction and access to search functionalities.
@@ -27,7 +27,7 @@
    • Utilized PCA for dimensionality reduction, boosting quantum learning in medical applications.
   
    • Developed a model combining Supervised Contrastive Learning and Variational Quantum Classifiers to
- improve classification
+ improve classification -->
 
 
 🌱 Interests:
