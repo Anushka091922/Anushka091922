@@ -1,4 +1,6 @@
-#  <h1 align="center">Hi 👋, I'm Anushka Sanjay Thakur</h1>
+#  <h1 align="center">Hi 👋, I'm Anushka and I'm a computer science student from India. Here's some info about me!
+
+</h1>
 
 <h3 align="center">Curious explorer embracing technology in varied research domains.</h3>
 
