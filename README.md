@@ -3,13 +3,13 @@
 
 </h1>
 
-<!-- ⚡ Work experience: <br>
+ ⚡ Work experience: <br>
 
 - **Machine Learning Intern-Infosys** - Fake news detection model development using ensemble Techniques. [India. Summer 2024]
   <!--**Software Engineer intern at Coinbase** - Full-stack development on the BlocSecurity Platform team. [Remote. Winter 2022]
  <!--**Software Engineer intern at Cisco Systems**  Front-end development on the Customer Experience team. [San Jose, California. Summer 2021]
  **Software Developer intern at Genetec**  Full-stack development on the Clearance team. [Montreal, Quebec. Spring 2021]
-**Teaching Assistant at Concordia University**  Object-Oriented Programming II (Java). [Montreal, Quebec. Spring 2021]-->
+**Teaching Assistant at Concordia University**  Object-Oriented Programming II (Java). [Montreal, Quebec. Spring 2021]
 
 <!-- ⚡ PROJECTS and HACKATHONS: <br>
 - Myntra WeForShe Hackathon 2024
