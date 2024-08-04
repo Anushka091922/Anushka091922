@@ -11,6 +11,19 @@
  **Software Developer intern at Genetec**  Full-stack development on the Clearance team. [Montreal, Quebec. Spring 2021]
 **Teaching Assistant at Concordia University**  Object-Oriented Programming II (Java). [Montreal, Quebec. Spring 2021]-->
 
+⚡ PROJECTS and HACKATHONS: <br>
+- Myntra WeForShe Hackathon 2024
+  • Built a Streamlit interface for real-time user interaction and access to search functionalities.
+  • Implemented vector embeddings to enhance the accuracy and speed of search results for fashion-related content.
+  • Developed a Myntra Fashion Search Engine with LanceDB
+
+- Quantum Contrastive Fusion
+   • Developed a Quantum model for medical applications.
+   • Utilized PCA for dimensionality reduction, boosting quantum learning in medical applications.
+   • Developed a model combining Supervised Contrastive Learning and Variational Quantum Classifiers to
+ improve classification
+
+
 🌱 Interests:
 - Building products and software.
 
