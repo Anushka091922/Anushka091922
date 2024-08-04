@@ -1,4 +1,4 @@
-#  <h1 align="center">Hi 👋, I'm Anushka and I'm a computer science student from India. Here's some info about me!
+#  <h2 align="center">Hi 👋, I'm Anushka and I'm a computer science student from India. Here's some info about me!
 
 
 </h1>
